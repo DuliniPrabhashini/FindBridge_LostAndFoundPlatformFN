@@ -1,4 +1,4 @@
-# Project Title
+# Find Bridge
 
 A brief description of what this project does and who it's for Find Bridge, which lost and found platform.
 
